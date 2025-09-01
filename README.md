@@ -83,7 +83,7 @@ infra-docker-stack/
 
 **Apolinário Soares**  
 Infraestrutura • DevOps • Automação • Docker • TI Hospitalar  
-LinkedIn: https://www.linkedin.com/in/seu-perfil
+LinkedIn: https://www.linkedin.com/in/apolinario-soares-122299235
 
 ---
 
